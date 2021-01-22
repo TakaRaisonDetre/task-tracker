@@ -4,6 +4,6 @@ export default colors ={
     lightPurple:'#7c5295',
     grey: '#808080',
     lightGrey: '#c0c0c0',
-    white: '#FFFFFF'
-
+    white: '#FFFFFF',
+    red:'#D85963'
 }

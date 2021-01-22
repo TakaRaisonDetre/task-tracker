@@ -2,7 +2,6 @@ import React from "react"
 
 import {View, Text, StyleSheet, KeyboardAvoidingView, TouchableOpacity, TextInput} from "react-native"
 import {AntDesign} from '@expo/vector-icons'
-
 import colors from '../Colors'
 
 export default class AddListModal extends React.Component {
